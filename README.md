@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, I'm Aravind</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saiaravind203" alt="saiaravind203" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saiaravind203" alt="saiaravind203" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/saiaravind203" target="blank"><img src="https://img.shields.io/twitter/follow/saiaravind203?logo=twitter&style=for-the-badge" alt="saiaravind203" /></a> </p>
+<p align="center"> <a href="https://twitter.com/saiaravind203" target="blank"><img src="https://img.shields.io/twitter/follow/saiaravind203?logo=twitter&style=for-the-badge" alt="saiaravind203" /></a> </p>
 
 - 🌱 I’m currently learning **AngularJS, ReactJS**
 
