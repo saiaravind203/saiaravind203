@@ -3,7 +3,7 @@
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
 
-<a href="#"><img width="100%" height="auto" src="https://static.vecteezy.com/system/resources/previews/000/677/514/large_2x/man-with-laptop-studying-or-working-concept.jpg" height="170px" style="border-radius:180px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://static.vecteezy.com/system/resources/previews/000/677/514/large_2x/man-with-laptop-studying-or-working-concept.jpg" height="170px" style="border-radius:50px"/></a>
 
 
 <h2 style="margin-left:10%">Interested in: </h2>
