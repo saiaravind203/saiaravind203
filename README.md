@@ -45,6 +45,9 @@
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" />
 <img src="https://logos-world.net/wp-content/uploads/2020/11/Adobe-Photoshop-Logo-2019-2020.png" alt="photoshop"  width="70" height="40" />
 </div>
+ <p align="center">
+  <img align="center" alt="Skills" src="https://github.com/viclafouch/viclafouch/blob/master/img/pack.png" />
+</p>
 
 <hr>
 
